@@ -1,6 +1,6 @@
 # my-first-pentest
 ## 实验环境：
-1.IP/MAC
+1.IP/MAC 
 Metasploitable2:192.168.174.130；00:0c:29:0c:e9:d4  
 Kali Linux:192.168.174.129；00:0C:29:be:9d:0b  
 <img width="600" height="160" alt="image" src="https://github.com/user-attachments/assets/7e4115b6-46e4-41a9-9d05-c3c1878763a8" />
