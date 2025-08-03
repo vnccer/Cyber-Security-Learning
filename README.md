@@ -32,4 +32,3 @@ nmap
 4.2 inet6表示这是一个IPv6地址配置。fe80::...: 这是一个链路本地地址 (Link-Local Address)。它只能用于在同一个物理网络内通信，不能访问互联网，通常由设备自动生成。scope link: 表明这个IPv6地址只在当前链路（局域网）有效。  
 4.3 CHOST攻击机Kali的IP，CPORT攻击机发起连接的端口,Proxies设置代理服务器，隐藏真实ip,RHOSTS目标主机IP,RPORT主机上漏洞端口号。  
 4.4 vsftpd v2.3.4后门漏洞：Metasploit 就像一个全自动的“万能钥匙”，只要告诉它门在哪里（RHOSTS），它就能自动完成“插钥匙、转动、开锁、推门”所有动作，然后直接进屋。
-4.5 
